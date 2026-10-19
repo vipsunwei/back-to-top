@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         回到顶部 · 进度环按钮
 // @namespace    https://github.com/vipsunwei/back-to-top
-// @version      1.5.0
+// @version      1.5.1
 // @description  为任意网页添加带滚动进度环的悬浮“回到顶部”按钮，向下滚动后自动出现。兼容 YouTube 等 SPA 站点。
 // @author       sunwei
 // @match        http://*/*
